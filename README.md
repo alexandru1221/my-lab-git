@@ -1,2 +1,1 @@
-# Laborator Git
-# Laborator Git - Versiunea MAIN
+# Laborator Git - Versiunea CONFLICT
